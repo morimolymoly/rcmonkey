@@ -1,5 +1,5 @@
 [package]
-name = "rmonkey"
+name = "rcmonkey"
 version = "0.1.0"
 authors = ["morimolymoly <morimolymoly@gmail.com>"]
 edition = "2018"
